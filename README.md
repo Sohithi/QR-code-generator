@@ -24,7 +24,7 @@ Users can enter any URL and generate a scannable QR code, with a 3-second animat
 
 ## 📁 Folder Structure
 ## screenshots
-<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/4b1981c5-3534-4cce-9075-6a2ed628cd41" />
-<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/dfd768de-5191-4ca1-b38e-82a340cc9a36" />
-<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/bedad556-44c7-4088-987c-5c70b334152c" />
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/2821f0f6-5350-4fe6-a09d-5b23df5720a6" />
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/7eb1c0c4-ab74-419b-8e08-186b18b0d699" />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/b9b9a620-8b45-4313-a077-b43bc03ff1fe" />
 
